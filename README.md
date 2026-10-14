@@ -19,7 +19,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en *
   Aplicación de terminal implementada a partir de especificaciones formales y contratos de arquitectura guiados por agentes (`AGENTS.md`).
 
 - **[Cuaderno Docente (Web + Multi-Agent SDD)](https://github.com/carlosdasilvaesp19/teacher_hub)**
-  Aplicación web fullstack desarrollada bajo Specification-Driven Development (SDD), orquestación secuencial (`AGENTS.md`) y reducción de contexto mediante `graphify`.
+  Aplicación web desarrollada bajo Specification-Driven Development (SDD, AGENTS.md), orquestación secuencial y reducción de contexto mediante `graphify`.
 
 - **Proyecto 4: Robust Testing Suite (TDD) (en proceso)**  
   Repositorio enfocado en ciclo Rojo-Verde-Refactor con JUnit, evaluando cobertura de pruebas unitarias y validación en bucle cerrado.
