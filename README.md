@@ -18,7 +18,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en *
 - **Proyecto 2: Java + Spec-Driven Development + Orquestación Multiagente (SDD) (en proceso)**  
   Aplicación de terminal implementada a partir de especificaciones formales y contratos de arquitectura guiados por agentes (`AGENTS.md`).
 
-- **[Cuaderno Docente (Web + Agente SDD)](https://github.com/carlosdasilvaesp19/teacher_hub)**
+- **[Cuaderno Docente (Web + Agente SDD)](https://drive.google.com/file/d/1NzoPA8TCpLZzWktpD0_EgX863DvP8tRP/view?usp=sharing)**
   Aplicación web desarrollada bajo Specification-Driven Development (SDD, AGENTS.md) y reducción de contexto mediante `graphify`.
 
 - **Proyecto 4: Java + metodología TDD (en proceso)**  
