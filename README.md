@@ -7,7 +7,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en *
 - **Intereses principales**: Backend en Java, diseño de bases de datos relacionales y metodologías modernas de desarrollo (SDD, TDD).
 - **Stack central**: Java, SQL (MySQL / Oracle), Git.
 - **Contacto**: [LinkedIn](https://www.linkedin.com/in/carlosdasilva-dev/) · [carlosdasilva.esp19@gmail.com](mailto:carlosdasilva.esp19@gmail.com)
-- **[Currículum Vitae:](https://drive.google.com/drive/u/0/my-drive)**
+- **[Currículum Vitae:]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1NzoPA8TCpLZzWktpD0_EgX863DvP8tRP/view?usp=sharing))**
 ---
 
 ### Proyectos Destacados
